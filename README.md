@@ -85,17 +85,17 @@ Preparado y probado específicamente para **Ubuntu 26.04** con Docker ya instala
 
 **Requisitos previos:** Docker instalado y en funcionamiento en el servidor.
 
-1. Copia el script `deploy_test_inteligencias.sh` al servidor (por ejemplo, con `scp`).
+1. Copia el script `test_stadistics.sh` al servidor (por ejemplo, con `scp`).
 2. Dale permisos de ejecución:
 
    ```bash
-   chmod +x deploy_test_inteligencias.sh
+   chmod +x test_stadistics.sh
    ```
 
 3. Ejecútalo:
 
    ```bash
-   ./deploy_test_inteligencias.sh
+   ./test_stadistics.sh
    ```
 
    El script crea la estructura del proyecto en `/opt/test-inteligencias`, construye la imagen Docker y levanta el contenedor.
