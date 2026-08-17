@@ -1,6 +1,6 @@
 # Perfil Profesional · Stadistics
 
-**Una herramienta de autoevaluación orientativa para ayudar a cada persona a encontrar el lugar donde mejor encaja dentro de una organización.**
+**Una herramienta para instalar en Docker, es un sistema de autoevaluación orientativa para ayudar a cada persona a encontrar el lugar donde mejor encaja dentro de una organización.**
 
 ---
 
